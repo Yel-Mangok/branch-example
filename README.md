@@ -3,4 +3,3 @@ Ingeniero de Software especializado en desarrollo web full-stack con amplia expe
 Cuento con experiencia práctica en el desarrollo de sistemas backend con Node.js, Express, Django y Flask, trabajando con bases de datos relacionales y no relacionales. Me centro en escribir código limpio y testeable siguiendo los principios SOLID y las mejores prácticas en arquitectura de software.
 
 Me apasiona resolver problemas reales a través de la tecnología; disfruto diseñando sistemas eficientes, optimizando el rendimiento y mejorando continuamente la calidad del código. Estoy comprometido con el aprendizaje continuo, la colaboración y la entrega de soluciones confiables que generen un impacto medible.
-yph-smkt-jta
