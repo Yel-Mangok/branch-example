@@ -1,5 +1,5 @@
-Software Engineer specializing in full-stack web development with strong experience in JavaScript and Python. Skilled in building scalable RESTful and GraphQL APIs, designing clean architectures, and delivering maintainable, high-quality code.
+Ingénieur logiciel spécialisé en développement web full-stack, possédant une solide expérience en JavaScript et Python. Maîtrise de la création d'API RESTful et GraphQL évolutives, de la conception d'architectures propres et de la livraison de code maintenable et de haute qualité.
 
-I have hands-on experience developing backend systems with Node.js, Express, Django, and Flask, working with both relational and non-relational databases. I focus on writing clean, testable code following SOLID principles and best practices in software architecture.
+J'ai une expérience pratique du développement de systèmes backend avec Node.js, Express, Django et Flask, et je travaille avec des bases de données relationnelles et non relationnelles. Je privilégie un code propre et testable, respectant les principes SOLID et les bonnes pratiques d'architecture logicielle.
 
-Passionate about solving real-world problems through technology, I enjoy designing efficient systems, optimizing performance, and continuously improving code quality. I am committed to continuous learning, collaboration, and delivering reliable solutions that create measurable impact.
+Passionné par la résolution de problèmes concrets grâce à la technologie, j'apprécie concevoir des systèmes efficaces, optimiser les performances et améliorer continuellement la qualité du code. Je m'engage à apprendre en permanence, à collaborer et à fournir des solutions fiables ayant un impact mesurable.
